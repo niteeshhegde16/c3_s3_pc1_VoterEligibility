@@ -1,0 +1,11 @@
+For which type of usage do you want
+outdoor
+Which Furniture you want
+table
+Which Colour of Furniture do you want
+blue
+Enter the grade of the Furniture
+1
+Enter price of the Furniture
+100
+Amount after discount is : 95.0
