@@ -1,0 +1,7 @@
+Enter name
+niteesh
+Enter age
+22
+niteesh Eligible to vote
+
+Process finished with exit code 0
